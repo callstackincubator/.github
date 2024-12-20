@@ -27,3 +27,8 @@ This is a place where we're pushing the boundaries of what's possible with React
 
 Check out our blog at [incubator.callstack.com/blog](https://incubator.callstack.com/blog) for more information.
 
+## Get in touch
+
+If you need help with your React / React Native application or need to validate a use case for it, please reach out to us: research@callstack.com
+
+You can also chat with us on [Discord](https://discord.gg/jWjVvvfV). We have dedicated channels for each project, and we are looking forward to meet you 👋
