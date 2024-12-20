@@ -4,7 +4,7 @@ This is a place where we're pushing the boundaries of what's possible with React
 
 ## Areas of Focus
 
-- **Artificial Intelligence**: From AI-powered CLIs to performance optimizations, here's what keeps us busy in the React Native ecosystem.
+- **Artificial Intelligence**: We're building AI-powered tools and intelligent automation for the next generation of mobile applications.
 - **Developer Experience**: Cross-platform development is great. We want to make you even more productive by bringing new languages to the React Native ecosystem.
 - **Performance**: There's always room for improvement. We're always looking for ways to make React Native faster and more efficient.
 - **New Platforms**: React Native is a "learn once, write anywhere" framework. We're working on new platforms to keep that promise.
@@ -14,6 +14,7 @@ This is a place where we're pushing the boundaries of what's possible with React
 - Piotr ([@dratwas](https://github.com/dratwas))
 - Mike ([@grabbou](https://github.com/grabbou))
 - Mario ([@mani3xis](https://github.com/mani3xis))
+- Michał ([@thymikee](https://github.com/thymikee))
 - Oskar ([@okwasniewski](https://github.com/okwasniewski))
 - Robert ([@robik](https://github.com/robik))
 
