@@ -11,11 +11,11 @@ This is a place where we're pushing the boundaries of what's possible with React
 
 ## Team
 
-- Piotr (@dratwas)
-- Mike (@grabbou)
-- Mario (@mani3xis)
-- Oskar (@okwasniewski)
-- Robert (@robik)
+- Piotr ([@dratwas](https://github.com/dratwas))
+- Mike ([@grabbou](https://github.com/grabbou))
+- Mario ([@mani3xis](https://github.com/mani3xis))
+- Oskar ([@okwasniewski](https://github.com/okwasniewski))
+- Robert ([@robik](https://github.com/robik))
 
 ## Motivation
 
