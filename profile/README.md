@@ -24,8 +24,7 @@ This is a place where we're pushing the boundaries of what's possible with React
 > At Callstack, we're dedicated to pushing technical boundaries and solving hard problems. We build the tools today that *you* will need tomorrow.
 > ~ Mike Grabowski, CTO
 
-
-Check out our blog at [incubator.callstack.com/blog](https://incubator.callstack.com/blog) for more information.
+Check out our blog at [callstack.com/blog](https://callstack.com/blog) for more information.
 
 ## Get in touch
 
