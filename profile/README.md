@@ -9,15 +9,6 @@ This is a place where we're pushing the boundaries of what's possible with React
 - **Performance**: There's always room for improvement. We're always looking for ways to make React Native faster and more efficient.
 - **New Platforms**: React Native is a "learn once, write anywhere" framework. We're working on new platforms to keep that promise.
 
-## Team
-
-- Piotr ([@dratwas](https://github.com/dratwas))
-- Mike ([@grabbou](https://github.com/grabbou))
-- Mario ([@mani3xis](https://github.com/mani3xis))
-- Michał ([@thymikee](https://github.com/thymikee))
-- Oskar ([@okwasniewski](https://github.com/okwasniewski))
-- Robert ([@robik](https://github.com/robik))
-
 ## Motivation
 
 > The React Native ecosystem moves fast, and new technologies bring both opportunities and challenges.
